@@ -1,0 +1,19 @@
+{
+    "name": "saracubillas/katas-TDD-PHP",
+    "authors": [
+        {
+            "name": "Sara Rodriguez Cubillas",
+            "email": "sara.cubillas@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+          "Refactoring\\": "src/",
+          "Tests\\": "tests/"
+        }
+    },
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^7.4"
+    }
+}
